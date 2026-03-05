@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.log
+history_data/*.csv
+live_data_logs/*.csv
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+*.txt
+!requirements.txt
+!qlib_lgbm_model.txt
+!models/*.txt
+
